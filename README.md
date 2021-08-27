@@ -12,7 +12,7 @@ Skills: REACT / JavaScript / HTML / CSS
  
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
-- 
+
 ✅ WordPress <br> 
 ✅ JavaScript <br>
 ✅ PHP <br>
