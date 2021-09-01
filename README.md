@@ -1,23 +1,29 @@
-#### Web Developer
-![I am Web Developer](https://scontent.fdac69-1.fna.fbcdn.net/v/t39.30808-6/s960x960/239435626_101327938939269_1455231737080805050_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=waF1C1GestkAX9FhA0Q&_nc_ht=scontent.fdac69-1.fna&oh=2b3b47d53d54cc27b12e4f8552014897&oe=612EC3A3)
-## Hi, I'm Musfiqur Rahman 👋
-<p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+### Hi there 👋, I'm Musfiqur Rahman
+#### Full Stack Web Developer.
+![Full Stack Web Developer.](https://media-exp1.licdn.com/dms/image/C4D16AQHx3kzW7pq4Ww/profile-displaybackgroundimage-shrink_200_800/0/1630498948082?e=1635984000&v=beta&t=cwG5P8synj7rOsQkXilkaD5LGaGDEOwk1_YW_wUWOk8)
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+Hi Buddy,
+If you are looking for a genius for this project, Then you are reading the right one.
+Over the last 2 years, I have been working as a Web Developer & Graphics Designer as well. I have higher experience in the following areas:
+Html5
+CSS3
+Bootstrap 5
+Javascript
+PSD to Html
+WordPress Theme development
+React
+SEO (Search Engine Optimization) etc
+I am also a graphic designer. My designs are minimalistic and branding, be it on the web or graphic. I am fluent in English which is very important for our communication. I try to deliver projects on time. That’s why I think my skills are ideal for your project.
 
-Skills: REACT / JavaScript / HTML / CSS
- 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Web Development 
+Thanks
+Kind Regards
+Musfiqur Rahman
 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / JavaScript<br>
-✅ Photoshop / Illustrator <br>
- 
-## 📧 For Business Inquiries 
-✅  ► musfiqurofficial1999@gmail.com
+Skills: REACT / JS / HTML / CSS / Bootstrap 5 / JavaScript
+
+- 🔭 I’m currently working on Fiver & Upwork 
+- 🌱 I’m currently learning JavaScript & Java 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/musfiqurofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/musfiqurofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/musfiqurofficialF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1gJ3FMsT2D3emyi2_TfBtA)  
+
