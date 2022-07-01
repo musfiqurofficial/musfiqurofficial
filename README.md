@@ -19,7 +19,7 @@ Thanks
 Kind Regards
 Musfiqur Rahman
 
-Skills: REACT / JS / HTML / CSS / Bootstrap 5 / JavaScript
+Skills: REACT / Node JS / JavaScript / HTML / CSS / TAILWIND CSS / Bootstrap 5 / PYTHON / GIT & GITHUB / 
 
 - 🔭 I’m currently working on Fiver & Upwork 
 - 🌱 I’m currently learning JavaScript & Java 
