@@ -1,41 +1,124 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hello! I'm MD Musfiqur Rahman
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-00C7B7?style=flat-square&logo=firebase&logoColor=white)
+<h3 align="center">MERN Stack Developer | Passionate about creating innovative web solutions</h3>
 
+<p align="center">
+  <a href="https://github.com/musfiqurofficial">
+    <img src="https://komarev.com/ghpvc/?username=musfiqurofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/musfiqurofficial?tab=followers">
+    <img src="https://img.shields.io/github/followers/musfiqurofficial?label=Followers&style=social" alt="GitHub followers"/>
+  </a>
+</p>
 
-I am MD Musfiqur Rahman, a MERN Stack Developer with a passion for creating dynamic and innovative web applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I strive to develop responsive, user-friendly interfaces and seamless web experiences.
+---
 
-As a dedicated and detail-oriented professional, I have honed my skills in HTML5, CSS3, Bootstrap5, Tailwind CSS, JavaScript (ES6), React, React Bootstrap, MongoDB, Axios, TanStack, Firebase, Stripe, and JSON. In addition, I am comfortable working with Node JS, Express JS, TypeScript, and JWT. I also have experience with other programming languages such as Python and Java, as well as design tools like Illustrator, PhotoshopCC, Premiere Pro, Filmora, Adobe XD, and Figma. Moreover, I am proficient in using Git & GitHub, VS Code, Trello, and Postman.
+## 👨‍💻 About Me
 
-I am currently working at Bright Future as a MERN Stack Developer, where I lead a team and work on exciting projects. Previously, I was a Full Stack Developer at Ampsers Technologies, where I learned the importance of collaboration and team management.
+I'm a passionate **MERN Stack Developer** with expertise in building dynamic, responsive, and user-friendly web applications. I thrive on turning complex problems into simple, beautiful designs and creating seamless web experiences that exceed client expectations.
 
-In conclusion, I am excited about the opportunity to contribute my skills and expertise to a collaborative team environment that fosters creativity and innovation while providing opportunities for growth and development. My ultimate goal is to deliver exceptional web solutions that exceed client expectations and positively impact end users. If you have any questions or would like to discuss potential opportunities, feel free to contact me at:
+- 🔭 Currently working as **MERN Stack Developer** at **Bright Future (Bangladesh)**
+- 🌱 Continuously learning and exploring new technologies
+- 👯 Looking to collaborate on **innovative web projects**
+- 💬 Ask me about **React, Node.js, MongoDB, or JavaScript**
+- 📫 How to reach me: **musfiqurofficial1999@gmail.com**
+- ⚡ Fun fact: I'm also skilled in design tools like **Illustrator, Photoshop, and Figma**
 
-musfiqurofficial1999@gmail.com
-✆ 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +880 1834369053
+---
 
-Thank you for your time!
+## 🛠️ Tech Stack & Skills
 
-Skills: REACT JS / Next JS / Typescript / Node JS / Express JS / MongoDB/ Mongoose / JavaScript / ES6 / HTML / CSS / TAILWIND CSS / Bootstrap 5 / Rest API / PYTHON / GIT & GITHUB / 
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-- 🔭 I’m currently working on Bright Future ( Bangladesh )
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-[<img src='https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png' alt='github' height='40'>](https://github.com/musfiqurofficial)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/musfiqurofficial/)  [<img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png' alt='facebook' height='40'>](https://www.facebook.com/musfiqurofficialF)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1gJ3FMsT2D3emyi2_TfBtA)  
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=musfiqurofficial&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurofficial&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurofficial&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/musfiqurofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/musfiqurofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/musfiqurofficialF" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC1gJ3FMsT2D3emyi2_TfBtA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:musfiqurofficial1999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/+8801834369053" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **MERN Stack Developer** | Bright Future (Bangladesh) | Current |
+| **Full Stack Developer** | Ampsers Technologies | Previous |
+
+---
+
+<p align="center">
+  <i>⚡ Let's create something amazing together!</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Code+with+passion;Build+with+precision;Innovate+with+purpose" alt="Typing SVG" />
+</p>
